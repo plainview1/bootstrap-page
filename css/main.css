@@ -453,6 +453,7 @@ color: #fff;
 .main {
 	margin-top: 20px;
 	width: 621px;
+	float: left;
 }
 
 .heading {
